@@ -9,4 +9,7 @@
             color: black;
             padding: 2rem;
         }
+        p{
+            text-align: center;
+        }
     </style>

@@ -8,17 +8,30 @@ const router = createRouter({
       path: '/',
       name: 'home',
       component: HomeView,
-    },
+    }, 
     {
-      path: '/about',
-      name: 'about',
-
-      component: () => import('../views/AboutView.vue'),
-    },    {
       path: '/contato',
       name: 'contato',
 
       component: () => import('../views/ContatoView.vue'),
+    },    
+    {
+      path: '/carregue',
+      name: 'carregue',
+
+      component: () => import('../views/CarregueView.vue'),
+    },    
+    {
+      path: '/procure',
+      name: 'procure',
+
+      component: () => import('../views/ProcureView.vue'),
+    },
+    {
+      path: '/avalie',
+      name: 'avalie',
+
+      component: () => import('../views/AvalieView.vue'),
     },
   ],
 })
