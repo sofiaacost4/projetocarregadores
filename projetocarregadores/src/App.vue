@@ -79,7 +79,7 @@ nav a:first-of-type {
     margin-top: 1rem;
   }
   main{
-    background-color: rgb(212, 193, 157);
+    background-color: rgb(255, 255, 255);
   }
 }
 </style>
