@@ -4,6 +4,7 @@
     <p>Telefone: 84 99187-4021</p>
     <p>Endereço: Avenida Amintas Barros, Lagoa Nova 3180</p>
 </template>
+
 <style scoped>
 h2{
     background-color: rgb(189, 156, 123);
@@ -15,6 +16,6 @@ p{
     padding: 0.5rem;
     background-color: rgb(18, 109, 114);
     color: white;
-    font-size: large;
+    font-size: larger;
 }
 </style>

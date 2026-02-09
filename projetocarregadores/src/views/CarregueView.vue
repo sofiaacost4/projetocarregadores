@@ -82,7 +82,7 @@ h2{
 .formulario-horizontal{
     display: flex;
     gap: 25px;
-    align-items: flex-end;
+    align-items: center;
 }
 
 .campo-bege{
@@ -91,13 +91,14 @@ h2{
     border-radius: 4px;
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: auto;
 }
 
 .campo-bege label{
     color: #4a3219;
     font-weight: bold;
     margin-bottom: 5px;
+    font-size: larger;
 }
 
 .input-comum {

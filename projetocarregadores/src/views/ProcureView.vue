@@ -69,7 +69,7 @@ h2{
 }
 .card-livro h3{ 
     color: #4a3219; 
-    font-size: 0.8rem; 
+    font-size: 1rem; 
     margin-top: 10px; 
     text-transform: uppercase; 
 }

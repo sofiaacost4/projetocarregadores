@@ -4,6 +4,7 @@
         <p>Desenvolvido por Haria Melena e Cofia Sosta</p>
     </footer>
 </template>
+    
     <style scoped>
         footer {
         background-color: rgb(8, 17, 92);
