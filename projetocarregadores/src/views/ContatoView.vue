@@ -8,7 +8,7 @@
 h2{
     background-color: rgb(189, 156, 123);
     color: rgb(66, 23, 3);
-    padding-left: 0.5rem;
+    padding: 10px 20px; 
 }
 p{
     text-align: left;

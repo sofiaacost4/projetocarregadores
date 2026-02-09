@@ -3,6 +3,8 @@
 html, body {
   height: 100%;
   margin: 0;
+  font-family: 'Instrument Serif', serif;
+  font-size: large;
 }
 
 #app {
@@ -36,4 +38,16 @@ a,
     background-color: hsla(229, 97%, 13%, 0.866);
     color: white;
   }
+.instrument-serif-regular {
+  font-family: "Instrument Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.instrument-serif-regular-italic {
+  font-family: "Instrument Serif", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
 }

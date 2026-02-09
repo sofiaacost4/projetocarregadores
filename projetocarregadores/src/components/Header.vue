@@ -19,28 +19,24 @@ import { RouterLink } from 'vue-router'
 .topo {
   display: flex;
   justify-content: center;
-  padding-top: 2rem;
   color: rgb(73, 29, 12);
   background-color:rgb(189, 156, 123);
   display: flex;
   flex-direction: column;
-  align-items: center;   
-  gap: 1rem;
+  align-items: center;
 }
 h1{
   color: rgb(9, 37, 87);
   text-align: center;
   font-weight: bold;
-  margin-left: 4rem;
 }
 nav{
   background-color:rgb(219, 198, 180);
   padding: 2rem;
-  padding-right: 32.9rem;
-  padding-left: 32.9rem;
+  border-radius: 5rem 5rem 0 0 ;
 }
 nav a{
   padding: 1rem;
-  margin-left: 2rem;
+  margin: 1.5rem;
 }
 </style>

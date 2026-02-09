@@ -86,7 +86,6 @@ header{
 }
 h2{
     color: rgb(66, 23, 3);
-    padding-left: 0.5rem;
 }
 .input{
     width: 100%;
@@ -110,7 +109,9 @@ h2{
     transition: opacity 0.2s;
 }
 .btn-enviar:hover{
-    opacity: 0.8;
+    background-color: #1a1a80;
+    color: white;
+    transition: 0.4s;
 }
 .bola{
     width: 30px;

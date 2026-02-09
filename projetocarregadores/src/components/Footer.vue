@@ -11,12 +11,9 @@
         padding: 1rem 2rem;
         position: relative;
         height: 120px;
-
         display: flex;
         align-items: center;
         }
-
-        /* texto realmente centralizado */
         footer p {
         position: absolute;
         left: 50%;
@@ -26,12 +23,10 @@
         letter-spacing: 1px;
         text-align: center;
         }
-
-        /* imagem colada à direita */
         footer img {
         max-width: 160px;
         height: auto;
-        margin-left: 26rem;
+        margin-left: 24rem;
         }
     </style>
 
