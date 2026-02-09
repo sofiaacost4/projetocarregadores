@@ -2,7 +2,7 @@
   <header class="topo">
     <h1>Carregadores de Livros</h1>
       <nav>
-        <RouterLink to="/">Home</RouterLink>
+        <RouterLink to="/">Início</RouterLink>
         <RouterLink to="/carregue">Carregue</RouterLink>
         <RouterLink to="/procure">Procure</RouterLink>
         <RouterLink to="/avalie">Avalie</RouterLink>
@@ -38,5 +38,14 @@ nav{
 nav a{
   padding: 1rem;
   margin: 1.5rem;
+  font-weight: bold;
+  background-color: #D8F7FF;
+  transition: opacity 0.2s;
+  color: #4C2215;
+}
+nav a:hover{
+  transition: 0.4s;
+  background-color: #1a1a80;
+  color: white;
 }
 </style>

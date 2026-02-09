@@ -131,6 +131,7 @@ h2{
     color: #333;
     line-height: 1.5;
     text-align: justify;
+    font-size: larger;
 }
 .secao-lista{
     width: 100%;

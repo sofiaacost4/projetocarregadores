@@ -56,7 +56,7 @@ const salvarLivro = () => {
 .container-geral{
     background-color: #004d55;
     padding: 0;
-    min-height: 100vh;
+    min-height: 65vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -91,7 +91,7 @@ h2{
     border-radius: 4px;
     display: flex;
     flex-direction: column;
-    width: 260px;
+    width: 100%;
 }
 
 .campo-bege label{
@@ -110,14 +110,12 @@ h2{
 .btn-carregar-grande {
     background-color: #e0f7ff;
     color: #004d55;
-    border: none;
     padding: 15px 35px;
     border-radius: 12px;
     font-size: 1.8rem;
-    font-weight: bold;
     cursor: pointer;
     box-shadow: 0 4px 4px rgba(0,0,0,0.25);
-    transition: transform 0.1s;
+    transition: transform 0.2s;
 }
 
 .btn-carregar-grande:active {
