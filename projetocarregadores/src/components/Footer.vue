@@ -27,7 +27,7 @@
         footer img {
         max-width: 160px;
         height: auto;
-        margin-left: 24rem;
+        margin-left: 35rem;
         }
     </style>
 
